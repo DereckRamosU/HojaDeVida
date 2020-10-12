@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<title> HOJA DE VIDA DE DERECK RAMOS</title>
+		HOJA DE VIDA DE DERECK RAMOS
 	</head>
 	<body>
 		<p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
@@ -31,7 +31,7 @@
 		</TABLE>
 		<P><b><H2>ESTUDIOS</H2></b></P>
 			<BR><b>Nivel Media</b></BR>
-			<BR><li>Instituto de Ciencias Aplicadas - Bachiller en Ciencias y Letras</li></BR>
+			<li>Instituto de Ciencias Aplicadas - Bachiller en Ciencias y Letras</li>
 		<P><b><H2>GUSTOS</H2></b></P>
 			<li>Anime</li>
 			<li>Videojuegos</li>
