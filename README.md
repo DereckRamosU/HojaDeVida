@@ -1,1 +1,44 @@
-# HojaDeVida
+<!DOCTYPE html>
+<html>
+	<head>
+		<title> HOJA DE VIDA DE DERECK RAMOS</title>
+	</head>
+	<body>
+		<p><b><h1><font> HOJA DE VIDA</font>  </H1></b></P>
+		<P><b><H2>DATOS PRESONALES</H2></b></P>
+		<TR>
+		<TABLE border="1" width="60%" height="160" >
+			<TR><TD><B>Cedula:  </B></TD>
+				<TD >8-976-2168</TD>
+			<TR><TD><B>Apellido:  </B></TD>
+				<TD>Ramos</TD>   
+			<TR><TD><B>Nombre:  </B></TD>
+				<TD>Dereck</TD> 
+			<TR><TD><B>Sexo:  </B></TD>
+				<TD>Masculino</TD> 
+			<TR><TD><B>Fecha de Nacimiento:  </B></TD>
+		  		<TD>5 de noviembre del 2001</TD> 
+		  	<TR><TD><B>Edad:  </B></TD>
+	  			<TD>18 </TD> 
+			<TR><TD><B>Estado Civil:  </B></TD>
+  				<TD>Soltero</TD>
+			<TR><TD><B>Direccion:  </B></TD>
+				<TD>Panamá, Panamá, Bella Vista</TD>
+			<TR><TD><B>Email:  </B></TD>
+  				<TD>dereckramosu@gmail.com</TD> 
+			<TR><TD><B>Celular:  </B></TD>
+  				<TD>6778-8856</TD> 
+		</TABLE>
+		<P><b><H2>ESTUDIOS</H2></b></P>
+			<BR><b>Nivel Media</b></BR>
+			<BR><li>Instituto de Ciencias Aplicadas - Bachiller en Ciencias y Letras</li></BR>
+		<P><b><H2>GUSTOS</H2></b></P>
+			<li>Anime</li>
+			<li>Videojuegos</li>
+			<li>Manga</li>
+		<P><b><H2>HABILIDADES</H2></b></P>
+			<li>Concentracion</li>
+			<li>Memoria</li>
+			<li>Orden</li>
+	</body>
+</html>
